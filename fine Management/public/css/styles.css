@@ -1,0 +1,29 @@
+
+body {
+  background-color: blue;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: lawngreen;
+  background-color: #000;
+}
+h1{
+  color: red;
+}
+/* .btn btn-light btn-lg{
+  background-color:aquamarine
+}
+.btn btn-dark btn-lg{
+  color:aquamarine
+} */
+/* .btn btn-dark{
+  background-color: olivedrab;
+  color: black;
+} */
